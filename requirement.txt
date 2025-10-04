@@ -1,0 +1,21 @@
+# Backend dependencies
+express
+mongoose
+cors
+dotenv
+jsonwebtoken
+bcryptjs
+socket.io
+multer
+cloudinary
+
+# Frontend dependencies (if using npm, listed in package.json)
+react
+react-dom
+react-router-dom
+redux
+@reduxjs/toolkit
+axios
+tailwindcss
+framer-motion
+react-toastify
